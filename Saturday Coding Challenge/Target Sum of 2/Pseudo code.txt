@@ -1,1 +1,17 @@
+A <-- array of integers
+
+map <-- hashing data structure(generally a hashmap)
+
+N <-- int for length of array
+
+K <-- the special number
+
+for i <-- 0 to (N-1):
+   A[i] <-- getinput just a single integer
+   check <-- (K - temp)
+
+   if(number check exists in map):
+      you got it now just break out
+
+   map.put(temp)
 
